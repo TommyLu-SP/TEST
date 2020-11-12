@@ -53,6 +53,7 @@ public class MainFragment extends Fragment {
         Log.d("TAG_B0",b[0]);
         Log.d("TAG_B1",b[1]);
         Log.d("TAG_B2",b[2]);
+        Log.d("TAG_TESTF1","TESTF1");
     }
 
     @Override
